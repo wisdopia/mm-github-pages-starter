@@ -9,3 +9,6 @@ tags:
   - Dictionary
   - Hashmap
 ---
+
+
+Python dictionary is wildly used in coding interview. 
